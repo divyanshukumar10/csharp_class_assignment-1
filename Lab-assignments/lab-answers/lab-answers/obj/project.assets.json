@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/lab-answers.csproj",
+      "projectUniqueName": "/Users/divyanshukumar/Documents/GitHub/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/lab-answers.csproj",
       "projectName": "lab-answers",
-      "projectPath": "/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/lab-answers.csproj",
+      "projectPath": "/Users/divyanshukumar/Documents/GitHub/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/lab-answers.csproj",
       "packagesPath": "/Users/divyanshukumar/.nuget/packages/",
-      "outputPath": "/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/obj/",
+      "outputPath": "/Users/divyanshukumar/Documents/GitHub/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/divyanshukumar/.config/NuGet/NuGet.Config"
