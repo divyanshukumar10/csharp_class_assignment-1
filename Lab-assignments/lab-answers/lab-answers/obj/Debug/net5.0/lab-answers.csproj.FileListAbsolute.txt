@@ -1,0 +1,15 @@
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/obj/Debug/net5.0/lab-answers.csproj.AssemblyReference.cache
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/obj/Debug/net5.0/lab-answers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/obj/Debug/net5.0/lab-answers.AssemblyInfoInputs.cache
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/obj/Debug/net5.0/lab-answers.AssemblyInfo.cs
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/obj/Debug/net5.0/lab-answers.csproj.CoreCompileInputs.cache
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/bin/Debug/net5.0/lab-answers.deps.json
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/bin/Debug/net5.0/lab-answers.runtimeconfig.json
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/bin/Debug/net5.0/lab-answers.runtimeconfig.dev.json
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/bin/Debug/net5.0/lab-answers.dll
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/bin/Debug/net5.0/ref/lab-answers.dll
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/bin/Debug/net5.0/lab-answers.pdb
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/obj/Debug/net5.0/lab-answers.dll
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/obj/Debug/net5.0/ref/lab-answers.dll
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/obj/Debug/net5.0/lab-answers.pdb
+/Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/obj/Debug/net5.0/lab-answers.genruntimeconfig.cache

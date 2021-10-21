@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D17521DB-6F78-4129-BD92-CE63FE6F2541}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="code7.cs">
+    <Files>
+      <File FileName="code7.cs" Line="24" Column="25" />
+      <File FileName="Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="lab-answers" expanded="True">
+            <Node name="lab-answers" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="code7.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.lab-answers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
