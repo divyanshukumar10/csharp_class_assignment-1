@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = lab_answers
-build_property.ProjectDir = /Users/divyanshukumar/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/
+build_property.ProjectDir = /Users/divyanshukumar/Documents/GitHub/csharp_class_assignment-1/Lab-assignments/lab-answers/lab-answers/

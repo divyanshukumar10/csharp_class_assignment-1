@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>lab_answers</RootNamespace>
-    <StartupObject>lab_answers.code3</StartupObject>
+    <StartupObject>lab_answers.code1</StartupObject>
   </PropertyGroup>
 
 </Project>
